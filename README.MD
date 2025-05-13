@@ -7,4 +7,7 @@ Random walks have practical applications in nature, physics, biology,
 chemistry, and economics. For example, a pollen grain floating on a drop
 of water moves across the surface of the water because it’s constantly pushed
 around by water molecules. Molecular motion in a water drop is random,
-so the path a pollen grain traces on the surface is a random walk. 
+so the path a pollen grain traces on the surface is a random walk.
+
+![Demo of Random walk visualization](Figure_1.png)
+
